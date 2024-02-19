@@ -1,0 +1,29 @@
+.omok-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.cell-rows {
+    display: flex;
+}
+
+.cell {
+    background-color: rgb(236, 134, 9);
+    width: 20px;
+    border: 1px solid grey;
+    height: 20px;
+    outline: none;
+    box-sizing: border-box;
+}
+
+.cell.activeWhite {
+    background-color: white;
+}
+
+.cell.activeBlack {
+    background-color: black;
+}
+
+.buttons {
+    margin-top: 10px;
+}
