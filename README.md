@@ -1,4 +1,4 @@
-omok game 구현
+## omok game 구현
 
 ### JavaScript
 
